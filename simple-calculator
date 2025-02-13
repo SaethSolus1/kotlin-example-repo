@@ -1,0 +1,4 @@
+fun main() {
+    val number = 7
+    println(if (number % 2 == 0) "Even" else "Odd")
+}
